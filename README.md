@@ -1,4 +1,4 @@
-# Refactoring - A working website doesn't always equal to a neat code. Trying to improve and tidy up the code without hurting the function.
+# Refactoring - Improving a code's quality without hurting the function. A working website doesn't always equal to an efficient code. 
 
 ## Description
 
